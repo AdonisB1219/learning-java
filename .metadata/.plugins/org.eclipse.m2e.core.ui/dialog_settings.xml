@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\Adonis\Documents\ING IND\Generation mexico\Java\Ejercicios\POO ejercicio\src\com\generation\StudentService.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="org.generation"/>
+		</list>
+		<list key="name">
+			<item value="MavenPDF"/>
+		</list>
+		<list key="artifactId">
+			<item value="MavenPDF"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Adonis\Documents\ING IND\Generation mexico\Java\Ejercicios\social-network"/>
+			<item value="C:\Users\Adonis\Documents\ING IND\Generation mexico\Java\Ejercicios\linkedin-batch-02-04-start"/>
+			<item value="C:\Users\Adonis\Documents\ING IND\Generation mexico\Java\Ejercicios\linkedin-batch-01-04"/>
+			<item value="C:\Users\Adonis\Downloads\linkedin-batch-01-04"/>
+			<item value="C:\Users\Adonis\Documents\ING IND\Generation mexico\Java\Ejercicios\java-collections-2421704"/>
+			<item value="C:\Users\Adonis\Documents\ING IND\Generation mexico\Java\Ejercicios\java-collections-2421704-02_09b"/>
+			<item value="C:\Users\Adonis\Downloads\Ex_Files_Learning_Spring_with_Spring_Boot\Exercise Files\CH03\03_03\03_03_begin\learning-spring"/>
+			<item value="C:\Users\Adonis\Downloads\Ex_Files_Learning_Spring_with_Spring_Boot\Exercise Files\CH02\02_03\02_03_end\learning-spring-ch2v3"/>
+			<item value="C:\Users\Adonis\Documents\ING IND\Generation mexico\Java\Ejercicios\learning-spring"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="667"/>
+		<item key="x" value="720"/>
+		<item key="y" value="71"/>
+	</section>
+</section>

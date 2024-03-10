@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;nueva&apos; in &apos;Categorias.agregarCategoria(...)&apos; to &apos;categoria&apos;&#x0D;&#x0A;- Original project: &apos;PracticaColecciones&apos;&#x0D;&#x0A;- Original element: &apos;Categorias.agregarCategoria(String).nueva&apos;&#x0D;&#x0A;- Renamed element: &apos;nueva&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;nueva&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{Categorias.java[Categorias~agregarCategoria~QString;@nueva!2474!2485!2481!2485!QString;!0!true" name="categoria" references="true" stamp="1691005459948" version="1.0"/>
+</session>

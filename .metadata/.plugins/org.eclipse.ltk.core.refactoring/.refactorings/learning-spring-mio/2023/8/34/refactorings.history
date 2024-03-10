@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;learning-spring/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;learning-spring&apos;&#x0D;&#x0A;- Destination element: &apos;learning-spring/src/main/resources&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     schema.sql&#x0D;&#x0A;     data.sql&#x0D;&#x0A;- Update references to refactored element" description="Move files" destination="/src\/main\/resources=/maven.pomderived=/true=/=/optional=/true=/" element1="bin/schema.sql" element2="bin/data.sql" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1692846212691" units="0" version="1.0"/>
+</session>
